@@ -1,0 +1,33 @@
+@import url('https://fonts.googleapis.com/css?family=Baloo');
+
+div[id^="caja"]{
+	border:2px #606060 solid;
+	border-radius:10px;
+	width:120px;
+	height:144px;
+	margin-right:17px;
+	display:inline-block;
+
+}
+
+
+
+div[id^="cont"]{
+	float:right;
+	width:576px;
+}
+
+p{
+	font-family: 'Baloo', cursive;
+	font-size:36px;
+	margin:43.5px auto 43.5px 17px;
+
+}
+
+div[id="cajaAmarilla"]{
+	background-color:#dfedd6;
+}
+
+div[id="cajaVerde"]{
+	background-color:#f7fade;
+}
