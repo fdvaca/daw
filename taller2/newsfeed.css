@@ -1,0 +1,53 @@
+input{
+	width:100%;
+}
+
+form{
+	width:100%;
+}
+
+button{
+	background-color: DodgerBlue;
+	border-radius: 5px;
+	width:100%;
+	box-shadow:2px 2px 2px gray;
+	border-color:DeepSkyBlue;
+}
+
+#inputSearch{
+	box-shadow:2px 2px 5px gray;
+}
+
+a{
+	word-wrap: break-word;
+	
+}
+
+.news{
+	border:2px gray solid;
+	padding:10px;
+
+
+}
+
+.tweet{
+	margin-top: 4px;
+	border-bottom: 2px gray solid;
+}
+
+.mensaje{
+	background-color: DodgerBlue;
+
+}
+
+.date{
+	text-align: right;
+}
+
+#mensajeBusca{
+	text-align: center;
+	font-weight:bold;
+	font-size:2em;
+}
+
+
